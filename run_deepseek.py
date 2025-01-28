@@ -1,6 +1,6 @@
 import time
 import torch
-from transformers import AutoTokenizer, AutoModelForCausalLM, GenerationConfig
+from transformers import AutoTokenizer, AutoModelForCausalLM
 
 class DeepSeekModel:
     def __init__(self, model_name="deepseek-ai/DeepSeek-R1-Distill-Qwen-7B", offload_folder="D://offload_weights"):
@@ -31,44 +31,18 @@ class DeepSeekModel:
 
         print("Modelo carregado com sucesso!")
 
-    def generate_response_continuous(self, prompt, max_new_tokens=1000):
-        print("Gerando resposta...")
-        start_time = time.time()
-
-        # Preparar entradas
-        inputs = self.tokenizer(prompt, return_tensors="pt").to(self.device)
-
-        # Gerar resposta
-        outputs = self.model.generate(
-            **inputs,
-            max_new_tokens=max_new_tokens,
-            eos_token_id=self.tokenizer.eos_token_id,  # Garante um fim correto
-            pad_token_id=self.tokenizer.pad_token_id,  # Evita truncamento
-            temperature=0.7,  # Torna o modelo mais criativo sem perder coerência
-            top_p=0.9,  # Reduz respostas irrelevantes
-            repetition_penalty=1.2  # Evita repetição excessiva
-        )
-
-        # Calcular tempo de execução
-        end_time = time.time()
-        elapsed_time = end_time - start_time
-
-        response = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
-
-        return response, elapsed_time
-
-    def generate_response_stream(self, prompt, max_new_tokens=1000):
+    def generate_response_stream(self, prompt, max_new_tokens=20000):
         print("Gerando resposta em tempo real...")
         start_time = time.time()
 
         # Preparar entradas
         inputs = self.tokenizer(prompt, return_tensors="pt").to(self.device)
-        
+
         # Estado inicial para o cache do modelo
         generated_ids = inputs["input_ids"]
 
         response = ""
-        
+
         for _ in range(max_new_tokens):
             outputs = self.model.generate(
                 input_ids=generated_ids,
@@ -83,10 +57,10 @@ class DeepSeekModel:
 
             # Selecionar o último token gerado
             new_token_id = outputs[0, -1].unsqueeze(0)
-            
+
             # Decodificar o novo token
             new_token_decoded = self.tokenizer.decode(new_token_id, skip_special_tokens=True)
-            
+
             # Adicionar ao texto gerado
             response += new_token_decoded
 
@@ -104,7 +78,6 @@ class DeepSeekModel:
         elapsed_time = end_time - start_time
         print("\n\nGeração concluída.")
         return response, elapsed_time
-
 
 if __name__ == "__main__":
     deepseek = DeepSeekModel()
