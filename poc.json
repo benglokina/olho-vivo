@@ -1,0 +1,1127 @@
+[
+    {
+        "id": 458500887,
+        "viagem": {
+            "motivo": "exoneração RODRIGO ROSSO MARQUES do cargo de Diretor de Políticas de Educação Bilíngue de Surdos da Secretaria de Modalidades Especializadas de Educação, código DAS 101.5",
+            "pcdp": "0000000000018639002",
+            "ano": 2023,
+            "numPcdp": "000019/23",
+            "justificativaUrgente": "Sem informação",
+            "urgenciaViagem": "Não"
+        },
+        "situacao": "Realizada",
+        "beneficiario": {
+            "cpfFormatado": "***.018.874-**",
+            "nis": "",
+            "nome": "KEYLA MARIA SANTANA DA SILVA"
+        },
+        "cargo": {
+            "codigoSIAPE": "000000000000000000000000707001",
+            "descricao": "PROFESSOR ENS BASICO TECN TECNOLOGICO"
+        },
+        "funcao": {
+            "codigoSIAPE": "-1",
+            "descricao": "Sem informação"
+        },
+        "tipoViagem": "Nacional",
+        "orgao": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "orgaoPagamento": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "unidadeGestoraResponsavel": {
+            "codigo": "150203",
+            "nome": "SUBSECRETARIA DE GESTAO ADMINISTRATIVA.",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "26000",
+                "cnpj": "00394445000101",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "dataInicioAfastamento": "2023-01-27",
+        "dataFimAfastamento": "2023-01-27",
+        "valorTotalRestituicao": 0.0,
+        "valorTotalTaxaAgenciamento": 0.0,
+        "valorMulta": 0.0,
+        "valorTotalDiarias": 0.0,
+        "valorTotalPassagem": 1364.27,
+        "valorTotalViagem": 1364.27,
+        "valorTotalDevolucao": 0.0
+    },
+    {
+        "id": 444900857,
+        "viagem": {
+            "motivo": "exoneração RODRIGO ROSSO MARQUES do cargo de Diretor de Políticas de Educação Bilíngue de Surdos da Secretaria de Modalidades Especializadas de Educação, código DAS 101.5",
+            "pcdp": "0000000000018639029",
+            "ano": 2023,
+            "numPcdp": "000020/23",
+            "justificativaUrgente": "Sem informação",
+            "urgenciaViagem": "Não"
+        },
+        "situacao": "Realizada",
+        "beneficiario": {
+            "cpfFormatado": "***.786.807-**",
+            "nis": "",
+            "nome": "SEBASTIAN DA SILVA MARQUES"
+        },
+        "cargo": {
+            "codigoSIAPE": "000000000000000000000000000000",
+            "descricao": ""
+        },
+        "funcao": {
+            "codigoSIAPE": "-1",
+            "descricao": "Sem informação"
+        },
+        "tipoViagem": "Nacional",
+        "orgao": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "orgaoPagamento": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "unidadeGestoraResponsavel": {
+            "codigo": "150203",
+            "nome": "SUBSECRETARIA DE GESTAO ADMINISTRATIVA.",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "26000",
+                "cnpj": "00394445000101",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "dataInicioAfastamento": "2023-01-27",
+        "dataFimAfastamento": "2023-01-27",
+        "valorTotalRestituicao": 0.0,
+        "valorTotalTaxaAgenciamento": 0.0,
+        "valorMulta": 0.0,
+        "valorTotalDiarias": 0.0,
+        "valorTotalPassagem": 1230.68,
+        "valorTotalViagem": 1230.68,
+        "valorTotalDevolucao": 0.0
+    },
+    {
+        "id": 443300846,
+        "viagem": {
+            "motivo": "Composição da 1ª força-tarefa para atender as demandas da Secretaria de Educação Superior relacionadas à análise dos Relatórios de Cumprimento de Objeto (RCO) dos Termos de Execução Descentralizada (TED).",
+            "pcdp": "0000000000018641582",
+            "ano": 2023,
+            "numPcdp": "000035/23",
+            "justificativaUrgente": "A solicitação de passagens encaminhada fora do prazo estabelecido  pela Portaria MEC nº 928, de 5 de dezembro de 2022, devido a transição governo e a necessidade de nomeação do cargo de ordenador de despesas da Secretária de Educação Superior.",
+            "urgenciaViagem": "Sim"
+        },
+        "situacao": "Realizada",
+        "beneficiario": {
+            "cpfFormatado": "***.982.319-**",
+            "nis": "",
+            "nome": "RODRIGO BOSSLE FAGUNDES"
+        },
+        "cargo": {
+            "codigoSIAPE": "000000000000000000000000701031",
+            "descricao": "ENGENHEIRO-AREA"
+        },
+        "funcao": {
+            "codigoSIAPE": "CD-0004",
+            "descricao": "Cargo Comissionado de Direção"
+        },
+        "tipoViagem": "Nacional",
+        "orgao": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "orgaoPagamento": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "unidadeGestoraResponsavel": {
+            "codigo": "150200",
+            "nome": "MEC/SE",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "26000",
+                "cnpj": "00394445000101",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "dataInicioAfastamento": "2023-01-22",
+        "dataFimAfastamento": "2023-01-27",
+        "valorTotalRestituicao": 0.0,
+        "valorTotalTaxaAgenciamento": 0.0,
+        "valorMulta": 0.0,
+        "valorTotalDiarias": 2087.17,
+        "valorTotalPassagem": 3566.74,
+        "valorTotalViagem": 5653.91,
+        "valorTotalDevolucao": 0.0
+    },
+    {
+        "id": 439100946,
+        "viagem": {
+            "motivo": "Aula Externa, com o 1º Ano Integrado de Mineração (20221.1.01432.1V) com atividades práticas de campo a serem desenvolvidas na Mineração Tomaz Salustino SA - Mina Brejuí (Currais Novos - RN), no dia 12/01/2023 e, na Armil Mineração Ltda (Parelhas - RN), no dia 13/01/2023",
+            "pcdp": "0000000000018644531",
+            "ano": 2023,
+            "numPcdp": "000164/23",
+            "justificativaUrgente": "VIAGEM JÁ REALIZADA",
+            "urgenciaViagem": "Sim"
+        },
+        "situacao": "Realizada",
+        "beneficiario": {
+            "cpfFormatado": "***.682.464-**",
+            "nis": "",
+            "nome": "MANOEL MACHADO DE MELO NETO"
+        },
+        "cargo": {
+            "codigoSIAPE": "000000000000000000000000701445",
+            "descricao": "MOTORISTA"
+        },
+        "funcao": {
+            "codigoSIAPE": "-1",
+            "descricao": "Sem informação"
+        },
+        "tipoViagem": "Nacional",
+        "orgao": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "orgaoPagamento": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "unidadeGestoraResponsavel": {
+            "codigo": "151602",
+            "nome": "CAMPUS NATAL CENTRAL - IFRN",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "26435",
+                "cnpj": "10877412000168",
+                "sigla": "IFRN",
+                "nome": "Instituto Federal do Rio Grande do Norte"
+            },
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "dataInicioAfastamento": "2023-01-12",
+        "dataFimAfastamento": "2023-01-13",
+        "valorTotalRestituicao": 0.0,
+        "valorTotalTaxaAgenciamento": 0.0,
+        "valorMulta": 0.0,
+        "valorTotalDiarias": 409.71,
+        "valorTotalPassagem": 0.0,
+        "valorTotalViagem": 409.71,
+        "valorTotalDevolucao": 0.0
+    },
+    {
+        "id": 455001009,
+        "viagem": {
+            "motivo": "Participação no I Encontro Internacional de Formação Docente do IFRN, II Simpósio Docência e Prática Pedagógicas na Educação Profissional: dilemas da contemporaneidade e II Encontro de Pesquisa e Formação Docente das Licenciaturas em Letras do CNAT, que ocorrerão no período de 23 a 26/01/2023, no IFRN/CNAT.",
+            "pcdp": "0000000000018647751",
+            "ano": 2023,
+            "numPcdp": "000207/23",
+            "justificativaUrgente": "O setor responsável pelo cadastramento estava aguardando a emissão do empenho para atender esta demanda.",
+            "urgenciaViagem": "Sim"
+        },
+        "situacao": "Realizada",
+        "beneficiario": {
+            "cpfFormatado": "***.792.303-**",
+            "nis": "",
+            "nome": "CLEUDENE DE OLIVEIRA ARAGAO"
+        },
+        "cargo": {
+            "codigoSIAPE": "000000000000000000000000000000",
+            "descricao": ""
+        },
+        "funcao": {
+            "codigoSIAPE": "-1",
+            "descricao": "Sem informação"
+        },
+        "tipoViagem": "Nacional",
+        "orgao": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "orgaoPagamento": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "unidadeGestoraResponsavel": {
+            "codigo": "151602",
+            "nome": "CAMPUS NATAL CENTRAL - IFRN",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "26435",
+                "cnpj": "10877412000168",
+                "sigla": "IFRN",
+                "nome": "Instituto Federal do Rio Grande do Norte"
+            },
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "dataInicioAfastamento": "2023-01-21",
+        "dataFimAfastamento": "2023-01-25",
+        "valorTotalRestituicao": 0.0,
+        "valorTotalTaxaAgenciamento": 0.0,
+        "valorMulta": 0.0,
+        "valorTotalDiarias": 0.0,
+        "valorTotalPassagem": 1705.13,
+        "valorTotalViagem": 1705.13,
+        "valorTotalDevolucao": 0.0
+    },
+    {
+        "id": 461201080,
+        "viagem": {
+            "motivo": "O servidor Francisco das Chagas Souza Junior (2055569), matrícula SIAPE nº 2918984, CPF nº 426.810.817-34, participará do primeiro encontro conjunto do Comitê de Pesquisa & Inovação do IFRN, do Comitê de Extensão, da Assessoria de Extensão e Relações Internacionais e da Assessoria de Comunicação e Eventos de 2023, que ocorrerá nos dias 31 de janeiro e 1° de fevereiro de 2023, no Campus Currais Novos deste Instituto Federal.",
+            "pcdp": "0000000000018644493",
+            "ano": 2023,
+            "numPcdp": "000031/23-1C",
+            "justificativaUrgente": "Ocorreu atraso na solicitação de diárias.",
+            "urgenciaViagem": "Sim"
+        },
+        "situacao": "Realizada",
+        "beneficiario": {
+            "cpfFormatado": "***.160.514-**",
+            "nis": "",
+            "nome": "FRANCISCO DAS CHAGAS SOUZA JUNIOR"
+        },
+        "cargo": {
+            "codigoSIAPE": "000000000000000000000000707001",
+            "descricao": "PROFESSOR ENS BASICO TECN TECNOLOGICO"
+        },
+        "funcao": {
+            "codigoSIAPE": "-1",
+            "descricao": "Sem informação"
+        },
+        "tipoViagem": "Nacional",
+        "orgao": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "orgaoPagamento": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "unidadeGestoraResponsavel": {
+            "codigo": "151609",
+            "nome": "CAMPUS CAICO - IFRN",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "26435",
+                "cnpj": "10877412000168",
+                "sigla": "IFRN",
+                "nome": "Instituto Federal do Rio Grande do Norte"
+            },
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "dataInicioAfastamento": "2023-01-31",
+        "dataFimAfastamento": "2023-01-31",
+        "valorTotalRestituicao": 0.0,
+        "valorTotalTaxaAgenciamento": 0.0,
+        "valorMulta": 0.0,
+        "valorTotalDiarias": 409.71,
+        "valorTotalPassagem": 0.0,
+        "valorTotalViagem": 409.71,
+        "valorTotalDevolucao": 280.08
+    },
+    {
+        "id": 446300859,
+        "viagem": {
+            "motivo": "A pedido do Secretário de Educação Profissional e Tecnológica indicado, Getúlio Marques Ferreira, solicitamos que  Senhor Alexandre Martins Vidor participe das atividades previstas para o período de 23 a 27 de janeiro de 2023, no MEC - Esplanada dos Ministérios, Bloco L, 4º andar, sala 400 - Gabinete da SETEC.",
+            "pcdp": "0000000000018651644",
+            "ano": 2023,
+            "numPcdp": "000056/23",
+            "justificativaUrgente": "Convocação do Secretário de Educação Profissional e Tecnológica indicado, professor Getúlio Marques Ferreira, para o cumprimento de agendas a partir do dia 24/01.",
+            "urgenciaViagem": "Sim"
+        },
+        "situacao": "Realizada",
+        "beneficiario": {
+            "cpfFormatado": "***.657.170-**",
+            "nis": "",
+            "nome": "ALEXANDRE MARTINS VIDOR"
+        },
+        "cargo": {
+            "codigoSIAPE": "000000000000000000000000707001",
+            "descricao": "PROFESSOR ENS BASICO TECN TECNOLOGICO"
+        },
+        "funcao": {
+            "codigoSIAPE": "CD-0002",
+            "descricao": "Cargo Comissionado de Direção"
+        },
+        "tipoViagem": "Nacional",
+        "orgao": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "orgaoPagamento": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "unidadeGestoraResponsavel": {
+            "codigo": "150214",
+            "nome": "MEC/SETEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "26000",
+                "cnpj": "00394445000101",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "dataInicioAfastamento": "2023-01-24",
+        "dataFimAfastamento": "2023-01-27",
+        "valorTotalRestituicao": 0.0,
+        "valorTotalTaxaAgenciamento": 0.0,
+        "valorMulta": 0.0,
+        "valorTotalDiarias": 1528.93,
+        "valorTotalPassagem": 1658.0,
+        "valorTotalViagem": 3186.93,
+        "valorTotalDevolucao": 0.0
+    },
+    {
+        "id": 448200989,
+        "viagem": {
+            "motivo": "Realização de atividades previstas no plano de trabalho no âmbito da parceria entre o IFRN e a Universidad de Almería (Convênio 02/2021 - Relações Internacionais): mobilidade de docente/pesquisador; palestras; reuniões com grupos de pesquisa/trabalho. Fortalecimento da internacionalização.",
+            "pcdp": "0000000000018651664",
+            "ano": 2023,
+            "numPcdp": "000067/23",
+            "justificativaUrgente": "Para ajustar novos empenhos (PCDP anterior 0001/23)",
+            "urgenciaViagem": "Sim"
+        },
+        "situacao": "Realizada",
+        "beneficiario": {
+            "cpfFormatado": "***.000.000-**",
+            "nis": "",
+            "nome": "José Manuel de Amo Sánchez-Fortún"
+        },
+        "cargo": {
+            "codigoSIAPE": "000000000000000000000000000000",
+            "descricao": ""
+        },
+        "funcao": {
+            "codigoSIAPE": "-1",
+            "descricao": "Sem informação"
+        },
+        "tipoViagem": "Internacional",
+        "orgao": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "orgaoPagamento": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "unidadeGestoraResponsavel": {
+            "codigo": "151601",
+            "nome": "REITORIA - IFRN",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "26435",
+                "cnpj": "10877412000168",
+                "sigla": "IFRN",
+                "nome": "Instituto Federal do Rio Grande do Norte"
+            },
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "dataInicioAfastamento": "2023-01-21",
+        "dataFimAfastamento": "2023-01-30",
+        "valorTotalRestituicao": 0.0,
+        "valorTotalTaxaAgenciamento": 0.0,
+        "valorMulta": 0.0,
+        "valorTotalDiarias": 0.0,
+        "valorTotalPassagem": 7500.92,
+        "valorTotalViagem": 7500.92,
+        "valorTotalDevolucao": 0.0
+    },
+    {
+        "id": 450301091,
+        "viagem": {
+            "motivo": "Conforme Processo 23119.002751.2022-52, o proposto, Presidente da Comissão de Processo Sindicante, lotado na Universidade Federal de Uberlândia, foi designado pela Portaria IBC 354/2022 e Prorrogado o prazo pela Portaria IBC 23/2023, para conduzir sindicância investigativa visando apuração de eventuais responsabilidades administrativas descritas no Processo 23119.002620.2022-75, bem como proceder ao exame de demais infrações conexas, que emergirem no curso dos trabalhos aputarórios do IBC entre os dias 23/01/2023 e 27/01/2023.",
+            "pcdp": "0000000000018685692",
+            "ano": 2023,
+            "numPcdp": "000001/23",
+            "justificativaUrgente": "A aquisição das passagens aéreas através da agência de viagens, que é o que determina o prazo de urgência estabelecido no art. 41, § 1º da Portaria MEC  nº 928, de 5 de dezembro de 2022, ocorreu no dia 13/01, conforme consta no Bilhete em anexo. Em caráter excepcional, a PCDP foi gerada após esta data devido à emissões das Notas de Empenho referente a diárias e passagens realizadas no dia 07/02/2023 e 09/02/2023, respectivamente, não gerando custos adicionais à União pelo atraso do lançamento no SCDP.",
+            "urgenciaViagem": "Sim"
+        },
+        "situacao": "Realizada",
+        "beneficiario": {
+            "cpfFormatado": "***.150.906-**",
+            "nis": "",
+            "nome": "ALESSANDRO MIRO DEGANI"
+        },
+        "cargo": {
+            "codigoSIAPE": "000000000000000000000000701200",
+            "descricao": "ASSISTENTE EM ADMINISTRAçãO"
+        },
+        "funcao": {
+            "codigoSIAPE": "-1",
+            "descricao": "Sem informação"
+        },
+        "tipoViagem": "Nacional",
+        "orgao": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "orgaoPagamento": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "unidadeGestoraResponsavel": {
+            "codigo": "152004",
+            "nome": "INSTITUTO BENJAMIN CONSTANT-RJ",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "26000",
+                "cnpj": "00394445000101",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "dataInicioAfastamento": "2023-01-23",
+        "dataFimAfastamento": "2023-01-27",
+        "valorTotalRestituicao": 0.0,
+        "valorTotalTaxaAgenciamento": 0.0,
+        "valorMulta": 0.0,
+        "valorTotalDiarias": 1701.28,
+        "valorTotalPassagem": 1232.02,
+        "valorTotalViagem": 2933.3,
+        "valorTotalDevolucao": 0.0
+    },
+    {
+        "id": 448700842,
+        "viagem": {
+            "motivo": "VIAGEM - AULA DE CAMPO COM OS ALUNOS PARA RECIFE- PE",
+            "pcdp": "0000000000018646351",
+            "ano": 2023,
+            "numPcdp": "000036/23",
+            "justificativaUrgente": "Em função do campus não ter transporte, ficamos aguardando a confirmação do transporte que será cedido por outro campus. Com isso, só conseguimos abrir o processo de solicitação de diárias agora.",
+            "urgenciaViagem": "Sim"
+        },
+        "situacao": "Realizada",
+        "beneficiario": {
+            "cpfFormatado": "***.602.474-**",
+            "nis": "",
+            "nome": "MARAISA DAMIANA SOARES ALVES"
+        },
+        "cargo": {
+            "codigoSIAPE": "000000000000000000000000707001",
+            "descricao": "PROFESSOR ENS BASICO TECN TECNOLOGICO"
+        },
+        "funcao": {
+            "codigoSIAPE": "-1",
+            "descricao": "Sem informação"
+        },
+        "tipoViagem": "Nacional",
+        "orgao": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "orgaoPagamento": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "unidadeGestoraResponsavel": {
+            "codigo": "152808",
+            "nome": "CAMPUS SAO PAULO DO POTENGI",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "26435",
+                "cnpj": "10877412000168",
+                "sigla": "IFRN",
+                "nome": "Instituto Federal do Rio Grande do Norte"
+            },
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "dataInicioAfastamento": "2023-01-23",
+        "dataFimAfastamento": "2023-01-24",
+        "valorTotalRestituicao": 0.0,
+        "valorTotalTaxaAgenciamento": 0.0,
+        "valorMulta": 0.0,
+        "valorTotalDiarias": 460.83,
+        "valorTotalPassagem": 0.0,
+        "valorTotalViagem": 460.83,
+        "valorTotalDevolucao": 0.0
+    },
+    {
+        "id": 457800848,
+        "viagem": {
+            "motivo": "VIAGEM - AULA DE CAMPO COM OS ALUNOS PARA RECIFE- PE",
+            "pcdp": "0000000000018649440",
+            "ano": 2023,
+            "numPcdp": "000048/23",
+            "justificativaUrgente": "Em função do campus não ter transporte, ficamos aguardando a confirmação do transporte que será cedido por outro campus. Com isso, só conseguimos abrir o processo de solicitação de diárias agora.",
+            "urgenciaViagem": "Sim"
+        },
+        "situacao": "Realizada",
+        "beneficiario": {
+            "cpfFormatado": "***.989.154-**",
+            "nis": "",
+            "nome": "CARLOS HENRIQUE BEZERRA DE OLIVEIRA"
+        },
+        "cargo": {
+            "codigoSIAPE": "000000000000000000000000707001",
+            "descricao": "PROFESSOR ENS BASICO TECN TECNOLOGICO"
+        },
+        "funcao": {
+            "codigoSIAPE": "CD-0004",
+            "descricao": "Cargo Comissionado de Direção"
+        },
+        "tipoViagem": "Nacional",
+        "orgao": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "orgaoPagamento": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "unidadeGestoraResponsavel": {
+            "codigo": "152808",
+            "nome": "CAMPUS SAO PAULO DO POTENGI",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "26435",
+                "cnpj": "10877412000168",
+                "sigla": "IFRN",
+                "nome": "Instituto Federal do Rio Grande do Norte"
+            },
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "dataInicioAfastamento": "2023-01-24",
+        "dataFimAfastamento": "2023-01-25",
+        "valorTotalRestituicao": 0.0,
+        "valorTotalTaxaAgenciamento": 0.0,
+        "valorMulta": 0.0,
+        "valorTotalDiarias": 409.99,
+        "valorTotalPassagem": 0.0,
+        "valorTotalViagem": 409.99,
+        "valorTotalDevolucao": 0.0
+    },
+    {
+        "id": 450800891,
+        "viagem": {
+            "motivo": "Reunião do Codir e Reunião com a Funcern.",
+            "pcdp": "0000000000018650653",
+            "ano": 2023,
+            "numPcdp": "000059/23-1C",
+            "justificativaUrgente": "Disponibilidade de recurso e convocação recente.",
+            "urgenciaViagem": "Sim"
+        },
+        "situacao": "Realizada",
+        "beneficiario": {
+            "cpfFormatado": "***.705.064-**",
+            "nis": "",
+            "nome": "LIGIA MARA GONZAGA"
+        },
+        "cargo": {
+            "codigoSIAPE": "000000000000000000000000707001",
+            "descricao": "PROFESSOR ENS BASICO TECN TECNOLOGICO"
+        },
+        "funcao": {
+            "codigoSIAPE": "-1",
+            "descricao": "Sem informação"
+        },
+        "tipoViagem": "Nacional",
+        "orgao": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "orgaoPagamento": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "unidadeGestoraResponsavel": {
+            "codigo": "151601",
+            "nome": "REITORIA - IFRN",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "26435",
+                "cnpj": "10877412000168",
+                "sigla": "IFRN",
+                "nome": "Instituto Federal do Rio Grande do Norte"
+            },
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "dataInicioAfastamento": "2023-01-23",
+        "dataFimAfastamento": "2023-01-25",
+        "valorTotalRestituicao": 0.0,
+        "valorTotalTaxaAgenciamento": 0.0,
+        "valorMulta": 0.0,
+        "valorTotalDiarias": 704.35,
+        "valorTotalPassagem": 0.0,
+        "valorTotalViagem": 704.35,
+        "valorTotalDevolucao": 0.0
+    },
+    {
+        "id": 453900820,
+        "viagem": {
+            "motivo": "Participação na organização dos preparativos da cerimônia de assinatura do Convênio com o Polo Embrapii e reunião com a Funcern.",
+            "pcdp": "0000000000018650750",
+            "ano": 2023,
+            "numPcdp": "000060/23",
+            "justificativaUrgente": "Disponibilidade de recurso e convocação recente.",
+            "urgenciaViagem": "Sim"
+        },
+        "situacao": "Realizada",
+        "beneficiario": {
+            "cpfFormatado": "***.186.074-**",
+            "nis": "",
+            "nome": "ELIAS NUNES FILHO"
+        },
+        "cargo": {
+            "codigoSIAPE": "000000000000000000000000701244",
+            "descricao": "TECNICO DE LABORATORIO AREA"
+        },
+        "funcao": {
+            "codigoSIAPE": "-1",
+            "descricao": "Sem informação"
+        },
+        "tipoViagem": "Nacional",
+        "orgao": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "orgaoPagamento": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "unidadeGestoraResponsavel": {
+            "codigo": "151601",
+            "nome": "REITORIA - IFRN",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "26435",
+                "cnpj": "10877412000168",
+                "sigla": "IFRN",
+                "nome": "Instituto Federal do Rio Grande do Norte"
+            },
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "dataInicioAfastamento": "2023-01-23",
+        "dataFimAfastamento": "2023-01-25",
+        "valorTotalRestituicao": 0.0,
+        "valorTotalTaxaAgenciamento": 0.0,
+        "valorMulta": 0.0,
+        "valorTotalDiarias": 757.69,
+        "valorTotalPassagem": 0.0,
+        "valorTotalViagem": 757.69,
+        "valorTotalDevolucao": 0.0
+    },
+    {
+        "id": 448200842,
+        "viagem": {
+            "motivo": "Reuniões no Ministério da Educação, pertinentes às ações da Secretaria de Educação Básica",
+            "pcdp": "0000000000018641258",
+            "ano": 2023,
+            "numPcdp": "000025/23",
+            "justificativaUrgente": "A convocação para participar das reuniões no Ministério da Educação, ocorreu dia 13 de janeiro de 2023, razão pela qual a solicitação restou fora do prazo",
+            "urgenciaViagem": "Sim"
+        },
+        "situacao": "Realizada",
+        "beneficiario": {
+            "cpfFormatado": "***.189.732-**",
+            "nis": "",
+            "nome": "EUZENI ARAUJO TRAJANO"
+        },
+        "cargo": {
+            "codigoSIAPE": "000000000000000000000000000000",
+            "descricao": ""
+        },
+        "funcao": {
+            "codigoSIAPE": "-1",
+            "descricao": "Sem informação"
+        },
+        "tipoViagem": "Nacional",
+        "orgao": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "orgaoPagamento": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "unidadeGestoraResponsavel": {
+            "codigo": "150199",
+            "nome": "MEC/GM",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "26000",
+                "cnpj": "00394445000101",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "dataInicioAfastamento": "2023-01-16",
+        "dataFimAfastamento": "2023-01-20",
+        "valorTotalRestituicao": 0.0,
+        "valorTotalTaxaAgenciamento": 0.0,
+        "valorMulta": 0.0,
+        "valorTotalDiarias": 1715.13,
+        "valorTotalPassagem": 5898.1,
+        "valorTotalViagem": 7613.23,
+        "valorTotalDevolucao": 0.0
+    },
+    {
+        "id": 445200909,
+        "viagem": {
+            "motivo": "Convocação para reunião ordinária deste Colegiado em Natal",
+            "pcdp": "0000000000018652532",
+            "ano": 2023,
+            "numPcdp": "000073/23",
+            "justificativaUrgente": "A CONVOCAÇÃO FOI DE FORMA URGENTE",
+            "urgenciaViagem": "Sim"
+        },
+        "situacao": "Realizada",
+        "beneficiario": {
+            "cpfFormatado": "***.304.343-**",
+            "nis": "",
+            "nome": "EMANUEL NETO ALVES DE OLIVEIRA"
+        },
+        "cargo": {
+            "codigoSIAPE": "000000000000000000000000707001",
+            "descricao": "PROFESSOR ENS BASICO TECN TECNOLOGICO"
+        },
+        "funcao": {
+            "codigoSIAPE": "CD-0002",
+            "descricao": "Cargo Comissionado de Direção"
+        },
+        "tipoViagem": "Nacional",
+        "orgao": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "orgaoPagamento": {
+            "nome": "Ministério da Educação - Unidades com vínculo direto",
+            "codigoSIAFI": "26000",
+            "cnpj": "00394445000101",
+            "sigla": "MEC",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "unidadeGestoraResponsavel": {
+            "codigo": "151612",
+            "nome": "CAMPUS PAU DOS FERROS - IFRN",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "26435",
+                "cnpj": "10877412000168",
+                "sigla": "IFRN",
+                "nome": "Instituto Federal do Rio Grande do Norte"
+            },
+            "orgaoMaximo": {
+                "codigo": "26000",
+                "sigla": "MEC",
+                "nome": "Ministério da Educação"
+            }
+        },
+        "dataInicioAfastamento": "2023-01-23",
+        "dataFimAfastamento": "2023-01-25",
+        "valorTotalRestituicao": 0.0,
+        "valorTotalTaxaAgenciamento": 0.0,
+        "valorMulta": 0.0,
+        "valorTotalDiarias": 907.19,
+        "valorTotalPassagem": 0.0,
+        "valorTotalViagem": 907.19,
+        "valorTotalDevolucao": 0.0
+    }
+]
