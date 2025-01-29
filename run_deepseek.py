@@ -31,19 +31,19 @@ class DeepSeekModel:
 
         print("Modelo carregado com sucesso!")
 
-    def generate_response_stream(self, prompt, max_new_tokens=20000):
+
+    def generate_response_stream(self, prompt):
         print("Gerando resposta em tempo real...")
         start_time = time.time()
 
         # Preparar entradas
         inputs = self.tokenizer(prompt, return_tensors="pt").to(self.device)
-
-        # Estado inicial para o cache do modelo
         generated_ids = inputs["input_ids"]
 
         response = ""
+        token_count = 0  # Contador de tokens gerados
 
-        for _ in range(max_new_tokens):
+        while True:  # Loop contínuo até interrupção manual ou EOS
             outputs = self.model.generate(
                 input_ids=generated_ids,
                 max_new_tokens=1,  # Gera um token por vez
@@ -57,18 +57,15 @@ class DeepSeekModel:
 
             # Selecionar o último token gerado
             new_token_id = outputs[0, -1].unsqueeze(0)
-
-            # Decodificar o novo token
             new_token_decoded = self.tokenizer.decode(new_token_id, skip_special_tokens=True)
 
             # Adicionar ao texto gerado
             response += new_token_decoded
-
-            # Imprimir o token gerado em tempo real
             print(new_token_decoded, end="", flush=True)
 
             # Atualizar a sequência para o próximo passo
             generated_ids = torch.cat([generated_ids, new_token_id.unsqueeze(0)], dim=-1)
+            token_count += 1
 
             # Interromper se o token de fim for gerado
             if new_token_id.item() == self.tokenizer.eos_token_id:
@@ -83,7 +80,7 @@ if __name__ == "__main__":
     deepseek = DeepSeekModel()
 
     # Testando envio de prompt mais simples para geração contínua
-    prompt = "Por favor, escreva um programa em Python para criar um jogo de Tetris. Explique cada etapa com comentários no código."
+    prompt = "Por favor, escreva um programa em Python para criar um jogo de Tetris."
 
     print(f"Dispositivo atual: {deepseek.device}")
 
