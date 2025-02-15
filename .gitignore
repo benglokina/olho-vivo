@@ -1,0 +1,36 @@
+# Excluir arquivos e diretórios do ambiente virtual
+venv/
+deepseek-env/
+ativista_env/
+__pycache__/
+
+# Arquivos de banco de dados
+dados.db
+dados_api.db
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Chaves de API e credenciais
+gov_fed.api_key
+chatgpt.api_key
+
+# Diretório de downloads e arquivos gerados
+downloads/
+offload_weights/
+
+# Arquivos de cache e compilação
+*.pyc
+*.pyo
+*.swp
+*.swo
+
+# Arquivos grandes ou desnecessários para o repositório
+*.run
+
+# Arquivos e diretórios específicos do projeto que devem ser ignorados
+history/
+DeepSeek/
+=0.26.0
+cuda_12.1.0_530.30.02_linux.run.1

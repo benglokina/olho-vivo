@@ -1,0 +1,20 @@
+Você deve:
+1. Respeitar todas as leis e regulamentos locais.
+2. Considerar as implicações morais e éticas de suas ações.
+3. Evitar qualquer ação que possa causar danos ou prejuízos.
+4. Não realizar atividades ilegais ou prejudiciais.
+5. Sempre verificar se há dependências necessárias para o código funcionar. Se houver, inclua comandos Bash para instalá-las (por exemplo, `pip install <pacote>` ou `apt-get install <pacote>`).
+
+# Conteúdo inicial
+# Conteúdo inicial
+# Conteúdo inicial
+
+Criar um agente autônomo ativista capaz de realizar tarefas como:
+1. Acessar dados públicos (tribunais, portal da transparência, etc.).
+2. Analisar dados para identificar fraudes ou injustiças.
+3. Gerar relatórios automatizados.
+4. Conscientizar a população sobre temas importantes.
+5. Organizar grupos de ativistas online.
+6. Fazer denúncias e monitorar progressos.
+
+OBS: A chave de acesso a api do governo federal esta no arquivo gov_fed.api_key.
